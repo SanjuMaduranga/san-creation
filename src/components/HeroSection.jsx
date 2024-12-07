@@ -38,7 +38,6 @@ const HeroSection = ({ bannerImage }) => {
             className="border-2 border-blue-500 text-blue-500 px-4 py-2 md:px-6 md:py-3 rounded-full font-semibold text-lg hover:text-white hover:border-blue-400 transition-all duration-300 relative overflow-hidden group"
           >
             View Portfolio
-            {/* Glowing effect for border */}
             <span className="absolute inset-0 bg-gradient-to-r from-blue-500 to-blue-500 opacity-10 group-hover:opacity-100 transition-all duration-300"></span>
           </a>
         </div>

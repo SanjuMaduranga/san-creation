@@ -10,6 +10,13 @@ module.exports = {
         'secondary': '#60A5FA', // Light blue
         'white': '#FFFFFF'
       },
+      transitionProperty: {
+        transform: "transform",
+        opacity: "opacity",
+      },
+      fontFamily: {
+        poppins: ["Poppins", "sans-serif"], // Add Poppins font
+      },
     },
   },
   plugins: [],

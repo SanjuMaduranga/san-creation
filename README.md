@@ -36,16 +36,4 @@ SAN Creation is a creative graphic design company offering services including lo
 
 ---
 
-## **Setup Instructions**
 
-### Prerequisites
-
-- Node.js installed on your system.
-- A package manager like npm or yarn.
-
-### Steps to Run Locally
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/your-repo-url.git
-   cd your-project-folder

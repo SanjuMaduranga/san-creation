@@ -1,70 +1,51 @@
-# Getting Started with Create React App
+# **SAN Creation - Graphic Design Portfolio**
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+SAN Creation is a professional portfolio website showcasing our graphic design services. It highlights our expertise in logo design, banner creation, and digital illustrations, aiming to inspire and attract potential clients.
 
-## Available Scripts
+## **Table of Contents**
+- [About](#about)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Setup Instructions](#setup-instructions)
+- [Folder Structure](#folder-structure)
+- [License](#license)
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## **About**
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+SAN Creation is a creative graphic design company offering services including logo design, poster design, business cards, vector illustrations, and more. This website is designed to showcase these services, provide insights into our work, and connect with clients.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## **Features**
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Responsive Design**: Works seamlessly across devices.
+- **Dynamic Animations**: Smooth scroll-based animations for an engaging user experience.
+- **Service Showcase**: Displays services with prices and descriptions.
+- **Social Media Links**: Direct links to SAN Creation’s Facebook, TikTok, YouTube, and Behance profiles.
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## **Tech Stack**
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **React.js**: Frontend library for building user interfaces.
+- **Tailwind CSS**: Utility-first CSS framework for styling.
+- **React Icons**: Icons for social media and design elements.
+- **Intersection Observer**: Library for scroll-based animations.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## **Setup Instructions**
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Prerequisites
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Node.js installed on your system.
+- A package manager like npm or yarn.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Steps to Run Locally
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/your-repo-url.git
+   cd your-project-folder
